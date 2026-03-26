@@ -177,6 +177,7 @@ aside > ul {
 }
 
 
+
 footer {
     background-color: var(--cor1);
     color: white;
@@ -189,7 +190,6 @@ footer > p > a {
     color: white;
     font-weight: bolder;
     text-decoration: none;
-
 
 }
 
